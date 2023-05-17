@@ -1,5 +1,5 @@
 # Youtube-Clone-Project
-This Project is a clone of front-end Youtube Graphics
+This Project is a clone of front-end Youtube Graphics.
 This Project uses different CSS Elements like
 1. Nested Layouts
 2. CSS Grid
